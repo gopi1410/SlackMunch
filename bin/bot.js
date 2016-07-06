@@ -4,7 +4,7 @@
 
 var MyBot = require('../lib/slackmunch');
 
-var token = 'xoxb-57049836742-8Cn7L5EZUEk36Ejho2tD9F2J';
+var token = require('../token');
 var dbPath = process.env.BOT_DB_PATH;
 var name = 'slackmunch';
 
