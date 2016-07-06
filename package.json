@@ -1,0 +1,15 @@
+{
+  "name": "slackmunch",
+  "version": "1.0.0",
+  "description": "slack bot to fetch and summarize weekly discussions",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Gopi Ramena",
+  "license": "ISC",
+  "dependencies": {
+    "slackbots": "^0.5.1",
+    "sqlite3": "^3.1.4"
+  }
+}
